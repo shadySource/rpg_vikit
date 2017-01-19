@@ -10,6 +10,7 @@
 
 
 #include <Eigen/Core>
+#include <Eigen/Geometry>
 #include <Eigen/StdVector>
 #include <sophus/se3.hpp>
 
